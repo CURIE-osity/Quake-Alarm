@@ -1,2 +1,2 @@
 # Quake-Alarm
-An AI open source projecτ
+An AI open source project
